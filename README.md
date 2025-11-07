@@ -10,6 +10,7 @@
 </p>
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zavalalabs)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zavalalabs&stats_format=bytes)
 
 <!---
 zavalalabs/zavalalabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
