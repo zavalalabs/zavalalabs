@@ -9,9 +9,7 @@
     
 </p>
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=zavalalabs&theme=gruvbox&rank_icon=percentile&disable_animations=true" />
-</p>
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=zavalalabs)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 zavalalabs/zavalalabs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
