@@ -6,8 +6,7 @@
 
 <p align="center">
    <img alt="he/him badge" src="https://img.shields.io/badge/he%2Fhim-yellow?style=for-the-badge">
-   <img alt="orcid badge" src="https://img.shields.io/badge/0009-0000-0189-581X?style=for-the-badge&logo=orcid&logoColor=white&link=https%3A%2F%2Forcid.org%2F0000-0002-2666-8493">
-   
+    
 </p>
 
 <p align="center">
